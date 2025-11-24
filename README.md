@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+<img width="564" height="410" alt="github-worth" src="https://github.com/user-attachments/assets/20785573-dc33-40d2-baea-2e67fb052f5c" />
+
+
 <!--
 **jimvaneijk/jimvaneijk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
