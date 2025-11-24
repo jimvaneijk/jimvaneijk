@@ -1,7 +1,13 @@
 ## Hi there 👋
 
-<img width="564" height="410" alt="github-worth" src="https://github.com/user-attachments/assets/20785573-dc33-40d2-baea-2e67fb052f5c" />
+Welcome to my Github page.
 
+I'm Jim van Eijk a Front-end developer from The Netherlands working at [23G](https://23g.io).
+
+
+**🔭 Currently in my spare time i'm working on:**
+- A Co-parenting app (later more info)
+- Equiply (Rental platform)
 
 <!--
 **jimvaneijk/jimvaneijk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
