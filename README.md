@@ -1,6 +1,6 @@
 # 👋 Welcome to My GitHub Profile!
 
-Hi, I'm **Jim van Eijk** – thanks for stopping by! 
+Hi, I'm **Jim van Eijk** – thanks for stopping by!
 
 ## 🚀 About Me
 
