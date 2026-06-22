@@ -8,6 +8,7 @@ I'm Jim van Eijk a Front-end developer from The Netherlands working at [23G](htt
 **🔭 Currently in my spare time i'm working on:**
 - A Co-parenting app Parlo [Dutch site](https://parlo.five10.nl?ref=github.com) - [English site](https://parlo.five10.nl/en?ref=github.com)
 - Equiply (Rental platform)
+- Expo Localized Widgets
 
 <!--
 **jimvaneijk/jimvaneijk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
